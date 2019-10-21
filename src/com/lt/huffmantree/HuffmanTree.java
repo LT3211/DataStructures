@@ -1,4 +1,4 @@
-package com.lt.HuffmanTree;
+package com.lt.huffmantree;
 
 import java.util.ArrayList;
 import java.util.Collections;
